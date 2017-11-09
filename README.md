@@ -1,2 +1,2 @@
-# test
-github测试
+# tieba_spider
+贴吧下载图片工具 可以下载指定贴吧的指定页数的所有帖子内的图片 使用requests和gevent 基于python2.7编写
